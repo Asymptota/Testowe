@@ -118,6 +118,9 @@ if (!empty($_GET['id'])) {
     </form>
     <?php
 }
+
+echo "Zmiana z GitHub";
+    
 ?>
 
 </body>
